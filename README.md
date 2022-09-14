@@ -1,1 +1,1 @@
-
+This GitHub Repo is for Composing Digital Media fall semester of 2021. Included in this repository is a screenshot of what I have started on Audacity, one of these sound files of hospital background noise that I will be using for my project, and the AUP file for my in-progress Audacity project. I plan on creating a podcast-style piece explaining the story behind my brain surgery mixed with common sounds you may hear within a hospital.
